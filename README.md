@@ -13,3 +13,7 @@ Then, tap this repository by running
 Afterwards, you can install the app as any other cask, by running
 
 `brew cask install itunesdiscordrp`
+
+Alternatively you can install it using a single command (which will tap the repository automatically):
+
+`brew cask install kkevinm/itunes-discord-rp/itunesdiscordrp`
