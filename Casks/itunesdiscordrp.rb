@@ -1,6 +1,6 @@
 cask "itunesdiscordrp" do
   version "1.5.7"
-  sha256 "f6490ccc3246429bc925aa12df789c6093cec2e3015d75b446f724858d41a4b"
+  sha256 "f6490ccc3246429bc925aa12df789c6093cec2e3015d75b446f724858d41a4b4"
 
   url "https://github.com/kkevinm/iTunes-Discord-RP/releases/download/1.5.7/iTunesDiscordRP-1.5.7.dmg"
   name "iTunes Discord RP"
